@@ -1,6 +1,7 @@
 {
   "name": "medrec",
   "version": "0.1.0",
+  "engines": { "node": "12.x", "npm": "your version" }
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
