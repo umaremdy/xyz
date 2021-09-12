@@ -1,13 +1,15 @@
 {
   "name": "medrec",
   "version": "0.1.0",
-  "engines": { "node": "12.x", "npm": "your version" }
+  
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "engines": { "node": "12.x", "npm": "your version" },
+  
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.2.1",
