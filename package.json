@@ -8,7 +8,10 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "engines": { "node": "12.x", "npm": "your version" },
+  "engines": {
+    "node": "14.x",
+    "npm": "7.x"
+  },
   
   "dependencies": {
     "axios": "^0.18.0",
